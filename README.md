@@ -2,5 +2,4 @@
 protosem_week_4_presentation
 
 [Watch the video](https://drive.google.com/file/d/1XC4-uWHEJccBWt-FAChNtUPimHg8nBJJ/preview)
-
-<iframe src="https://drive.google.com/file/d/1XC4-uWHEJccBWt-FAChNtUPimHg8nBJJ/preview" width="640" height="480" allow="autoplay"></iframe>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
